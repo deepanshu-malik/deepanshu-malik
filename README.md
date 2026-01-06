@@ -42,7 +42,7 @@ Currently at **Kogta Financial**, building production microservices from the gro
 
 ### On GitHub
 
-**[genai-sandbox](https://github.com/deepanshu-malik/genai-sandbox/tree/master)** — My GenAI lab with production-ready implementations:
+**[genai-sandbox](https://github.com/deepanshu-malik/genai-sandbox)** — My GenAI lab with production-ready implementations:
 
 - RAG pipeline with ChromaDB vector storage and citation support
 - Async LLM calls with rate limiting and retry patterns
